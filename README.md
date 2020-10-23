@@ -1,2 +1,2 @@
 # AzureSmsSender
-C#
+C# project
